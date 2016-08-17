@@ -1,4 +1,3 @@
-layout_spectrum: 0.4154380194377154
 typography_spectrum: 0.33053926075808704
 color:
   brandStrength: 0.6763759483583272
@@ -11,4 +10,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
+layout_spectrum: 0.4154380194377154
 name: Morgan Edward Davies
+title: Welcome
+description: ''
